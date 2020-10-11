@@ -3,8 +3,8 @@
 Procedure to setup, run 
 Backend (Node.js, Express, MongoDB) API Service & Frontend (React) UI Project:
 
-##Backend Service/API
-#Start backend(API) Service first (backend-service)
+# Backend Service/API
+# Start backend(API) Service first (backend-service)
 (1)	Open terminal and navigate to Project folder i.e. backend-service.
 (2)	For first time run "npm install" on your terminal
 (3)	Wait for all dependency to be installed
@@ -22,8 +22,8 @@ How much completed?
 (c)	Overall 100% is completed.
 
 
-##Frontend UI
-#Start Frontend UI Project (react-client)	
+# Frontend UI
+# Start Frontend UI Project (react-client)	
 (1)	Open terminal and navigate to Project folder i.e. react-client.
 (2)	For first time run "npm install" on your terminal
 (3)	Wait for all dependency to be installed
